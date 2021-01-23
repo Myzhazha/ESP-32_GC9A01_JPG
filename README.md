@@ -1,5 +1,10 @@
 # ESP-32_GC9A01_JPG
-ESP32驱动GC9A01圆形屏幕显示图片  
+ESP32驱动GC9A01圆形屏幕显示图片
+
+![baidu](https://upload-images.jianshu.io/upload_images/4596711-8867048df2346232.jpg)  
+
+
+
 屏幕GND对应开发板GND  
 屏幕VCC对应开发板3.3  
 屏幕SCL对应开发板D14  
