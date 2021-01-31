@@ -22,4 +22,11 @@ SD卡MOSI对应开发板D15（和屏幕共用）
 SD卡SCK对应开发板D14（和屏幕共用）  
 SD卡CS对应开发板D13  
 
+![img](https://github.com/Myzhazha/ESP-32_GC9A01_JPG/blob/main/img/0.jpg)  
 
+![img](https://github.com/Myzhazha/ESP-32_GC9A01_JPG/blob/main/img/1.jpg)  
+
+
+![img](https://github.com/Myzhazha/ESP-32_GC9A01_JPG/blob/main/img/2.jpg)  
+
+![img](https://github.com/Myzhazha/ESP-32_GC9A01_JPG/blob/main/img/3.jpg)  
