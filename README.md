@@ -13,7 +13,7 @@ ESP32驱动GC9A01圆形屏幕显示图片
 屏幕RES对应开发板D33  
 屏幕DC对应开发板D27  
 屏幕CS对应开发板D5  
-屏幕BLK引脚留空  
+屏幕BLK对应开发板D22  
   
 SD卡GND对应开发板GND  
 SD卡VCC对应开发板VIN  
