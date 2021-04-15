@@ -9,13 +9,13 @@
 执行以下命令将mp4文件转换为mjpeg格式  
 
 `
-ffmpeg -i [你的mp4文件路径] -vf "fps=30,scale=-1:240:flags=lanczos,crop=240:in_h:(in_w-240)/2:0" -q:v 9 [输出路径]
+./ffmpeg -i [你的mp4文件路径] -vf "fps=30,scale=-1:240:flags=lanczos,crop=240:in_h:(in_w-240)/2:0" -q:v 9 [输出路径]
 `  
   
 比如：  
   
 `
-ffmpeg -i D:\video\1.mp4 -vf "fps=30,scale=-1:240:flags=lanczos,crop=240:in_h:(in_w-240)/2:0" -q:v 9 D:\video\240_30fps.mjpeg
+./ffmpeg -i D:\video\1.mp4 -vf "fps=30,scale=-1:240:flags=lanczos,crop=240:in_h:(in_w-240)/2:0" -q:v 9 D:\video\240_30fps.mjpeg
 `
 
 转换完成后把240_30fps.mjpeg文件放到TF卡根目录即可
