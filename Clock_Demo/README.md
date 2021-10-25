@@ -1,8 +1,11 @@
 所需库：
-ArduinoJson库
-FastLED库
-Time库
-TJpg_Decoder库
+ArduinoJson库  
+
+FastLED库  
+
+Time库  
+
+TJpg_Decoder库  
 
 TFT_eSPI库已配置好，直接下载使用即可
 
