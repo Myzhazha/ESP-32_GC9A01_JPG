@@ -1,0 +1,2 @@
+libraries文件夹里的库文件放到你的Arduino的库安装位置下
+默认为C:\Users\你的用户名\Documents\Arduino\libraries
