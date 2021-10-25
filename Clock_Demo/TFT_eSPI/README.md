@@ -1,1 +1,0 @@
-下载完TFT_eSPI库之后，把该目录下的User_Setup.h复制并覆盖原TFT_eSPI库的User_Setup.h文件
