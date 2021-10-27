@@ -1,6 +1,9 @@
 # ESP-32_GC9A01_JPG
-ESP32驱动GC9A01圆形屏幕显示图片
- 
+ESP32驱动GC9A01圆形屏幕显示图片/视频/时间  
+
+![img](https://github.com/Myzhazha/ESP-32_GC9A01_JPG/blob/main/img/4.jpg)  
+  
+图片及视频  
 在SD卡根目录创建一个img文件夹，把图片用工具裁剪/缩放成240x240大小，把图片放进img目录  
 可以放多个图片，会每隔5秒自动更换，图片显示时长在JpegClass.ino文件的第110行代码更改，单位MS  
 需要Arduino IDE并安装ESP32库和Arduino_GFX_Library库  
